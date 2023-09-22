@@ -1,0 +1,15 @@
+body, html {
+    margin: 0
+}
+
+body {
+    --bg_main: #1e1e2e;
+    --bg_dark: #11111b;
+    --bg_light: #45475a;
+    --text: #cdd6f4;
+    --error: #f38ba8;
+    --success: #a6e3a1;
+    --warning: #fab387;
+    --accent: #74c7ec;
+    --text_grey: #9ca3ba;
+}

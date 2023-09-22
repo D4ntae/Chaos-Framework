@@ -1,0 +1,3 @@
+<div>
+    Screenshots page
+</div>

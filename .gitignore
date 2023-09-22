@@ -1,2 +1,5 @@
 veles/__pycache__
+veles/server/__pycache__
+veles/server/routes/__pycache__
 veles/venv
+nyx/node_modules

@@ -1,0 +1,11 @@
+DROP TABLE IF EXISTS agents;
+
+CREATE TABLE agents (
+		id INTEGER PRIMARY KEY AUTOINCREMENT,
+		agentType TEXT NOT NULL,
+		arch TEXT NOT NULL,
+		os TEXT NOT NULL,
+		hostname TEXT NOT NULL,
+		pid TEXT NOT NULL,
+		procName TEXT NOT NULL
+);
